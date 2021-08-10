@@ -1,8 +1,8 @@
 # Physical-Verification-and-tapeout-using-Sky130
 
 
-
-DAÝ 1: Introduction to SkyWater SKY130
+### Table of Content
+#### DAÝ 1: Introduction to SkyWater SKY130
     A. Open_pdks
     1. SkyWater PDK
     2. Open tool setups
@@ -21,7 +21,7 @@ DAÝ 1: Introduction to SkyWater SKY130
     1. Creating schematics
     2. Creating device layouts
     3. Simulating the netlist
-Lab 1:
+#### Lab 1:
     A. Open_pdks installation
     1. Installing open_pdks and the SkyWater PDK
     2. Project setup best practices
