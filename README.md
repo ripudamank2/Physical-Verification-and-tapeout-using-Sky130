@@ -1,5 +1,10 @@
 # Physical-Verification-and-tapeout-using-Sky130
 
+Physical verification is the process in which a circuit design and its layout works as planned. Steps include design rule checking (DRC) and layout-versus-schematic (LVS) checks.
+
+
+
+
 
 ### Table of Content
 #### DAÝ 1: Introduction to SkyWater SKY130
