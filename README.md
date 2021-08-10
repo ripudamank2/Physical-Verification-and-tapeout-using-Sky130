@@ -33,7 +33,7 @@
     D. Exporting a schematic to layout
     E. Simulating the netlist
 -----------------------------------------------------
-DAY 2: Introduction to DRC and LVS
+#### DAY 2: Introduction to DRC and LVS
     A. Understanding GDS format
     1. Streaming format
     2. Layer:Purpose pairs
@@ -77,7 +77,7 @@ DAY 2: Introduction to DRC and LVS
     G. Verification by XOR
     1. ECO
     2. XOR
-Lab 2:
+#### Lab 2:
     A. Basic GDS:
     1. Reading/writing GDS to/from magic
     2. GDS compositing with magic
@@ -102,7 +102,7 @@ Lab 2:
     1. Creating an ECO (from a prepared example)
     2. Running XOR
 ---------------------------------------------------------
-DAY 3: Front-end and back-end DRC
+#### DAY 3: Front-end and back-end DRC
     A. Back-end (metal layer) rules
     1. Width
     2. Spacing, Notch
@@ -140,7 +140,7 @@ DAY 3: Front-end and back-end DRC
     H. DRC in Magic:  DRC styles
     I. Dumping and viewing DRC results
     J. Fixing DRC errors
-Lab 3:
+#### Lab 3:
     A. Running Magic's interactive DRC
     B. Running antenna checks
     C. Running Magic's batch DRC
@@ -149,7 +149,7 @@ Lab 3:
     F. Checks with alternative tech files
     G. Catching violations by extraction
 ---------------------------------------------------------
-DAY 4: Understanding PNR and physical verification
+#### DAY 4: Understanding PNR and physical verification
     A. openlane/OpenROAD automation
     B. Avoiding DRC violations
     i. Local interconnect rules
@@ -159,10 +159,10 @@ DAY 4: Understanding PNR and physical verification
     D. Managing hard macros
     E. Top-level routing
     F. Manually fixing violations
-Lab 4:
+#### Lab 4:
     A.OpenLANE labs
 ---------------------------------------------------------
-DAY 5: Running LVS
+#### DAY 5: Running LVS
     A. Generating netlist from schematic
     B. Generating LVS netlist from layout
     C. Differences between LVS netlists and simulation netlists
@@ -177,7 +177,7 @@ DAY 5: Running LVS
     L. Symmetry breaking
     M. Interpreting results
     N. Fixing errors
-Lab 5:
+#### Lab 5:
     A. Creating a (simple) hierarchical circuit in schematic
     B. Exporting a schematic to netlist
     C. Importing a schematic netlist into layout
